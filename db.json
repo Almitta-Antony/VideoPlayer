@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": 7,
+      "caption": "WTF is the Next Gen Thinking? ",
+      "cover_image": "https://i.postimg.cc/BbmLWpTT/card.jpg",
+      "video_url": "https://www.youtube.com/embed/nGpir4oUfJI?autoplay=1"
+    },
+    {
+      "id": 8,
+      "caption": "Lover",
+      "cover_image": "https://i.postimg.cc/2jTysLVS/maxresdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/-BjZmE2gtdo?autoplay=1"
+    },
+    {
+      "id": 9,
+      "caption": "Taylor Swift - Love Story",
+      "cover_image": "https://i.postimg.cc/L5kbWMHJ/wp7285079.png",
+      "video_url": "https://www.youtube.com/embed/8xg3vE8Ie_E?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "locchby2",
+      "name": "cover",
+      "videos": [
+        {
+          "id": 8,
+          "caption": "Lover",
+          "cover_image": "https://i.postimg.cc/2jTysLVS/maxresdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/-BjZmE2gtdo?autoplay=1"
+        },
+        {
+          "id": 9,
+          "caption": "Taylor Swift - Love Story",
+          "cover_image": "https://i.postimg.cc/L5kbWMHJ/wp7285079.png",
+          "video_url": "https://www.youtube.com/embed/8xg3vE8Ie_E?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "locchio6",
+      "name": "talks",
+      "videos": [
+        {
+          "id": 7,
+          "caption": "WTF is the Next Gen Thinking? ",
+          "cover_image": "https://i.postimg.cc/BbmLWpTT/card.jpg",
+          "video_url": "https://www.youtube.com/embed/nGpir4oUfJI?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "loa4aeez",
+      "video_title": "WTF is the Next Gen Thinking? ",
+      "url": "https://www.youtube.com/embed/nGpir4oUfJI?autoplay=1",
+      "date": "28-10-2023 7:38:07 PM"
+    },
+    {
+      "id": "loa4ap5p",
+      "video_title": "Tylor Swift",
+      "url": "https://www.youtube.com/embed/nn_0zPAfyo8?autoplay=1",
+      "date": "28-10-2023 7:38:21 PM"
+    },
+    {
+      "id": "loa88oqq",
+      "video_title": "Taylor Swift - Love Story",
+      "url": "https://www.youtube.com/embed/8xg3vE8Ie_E?autoplay=1",
+      "date": "28-10-2023 9:28:46 PM"
+    },
+    {
+      "id": "locchqph",
+      "video_title": "Taylor Swift - Love Story",
+      "url": "https://www.youtube.com/embed/8xg3vE8Ie_E?autoplay=1",
+      "date": "30-10-2023 9:03:19 AM"
+    }
+  ]
+}
